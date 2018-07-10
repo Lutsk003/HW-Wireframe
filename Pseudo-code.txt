@@ -1,0 +1,5 @@
+Things that still need to be coded:
+
+- Article box and boxes inside of it need to be pushed to the bottom of section. 
+  I couldn't figure out how to make these go to the bottom with absolute or relative positioning.
+  It may have something to do with padding or margins, or a misunderstanding of how positioning works.
